@@ -21,3 +21,32 @@ segunda aula de cordova dia 6 de fevereiro
 
 8 - Dá um push
 	git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORDOVA
+
+1 - cordova create projeto1
+	isso vai criar uma pasta pro seu projeto mobile a pasta e o seu projeto
+
+2 - git add projeto1
+
+3 - git commit -am "acabei de criar um projeto"
+
+4 - git push
+
+
+
+
+
+
